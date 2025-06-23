@@ -241,6 +241,7 @@
             max-width: 100vw;
         height: auto;
         margin-bottom: 100px;
+         background: white;
         }
         .card-containers{
             flex-wrap: nowrap;
